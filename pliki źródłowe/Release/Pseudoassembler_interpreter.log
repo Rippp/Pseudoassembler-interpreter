@@ -1,0 +1,15 @@
+﻿  check_functions.c
+  global_variables.c
+  main.c
+  order_functions.c
+  output_functions.c
+  parsing_and_loading_functions.c
+C:\Users\PC\Desktop\VS_pseudoassembler_2\pliki źródłowe\order_functions.c(95,30): warning C4013: niezdefiniowany "parse_address"; przy założeniu, że extern zwraca int
+C:\Users\PC\Desktop\VS_pseudoassembler_2\pliki źródłowe\parsing_and_loading_functions.c(289,23): warning C4244: "=": konwersja z "LONG" do "SHORT", możliwa utrata danych
+C:\Users\PC\Desktop\VS_pseudoassembler_2\pliki źródłowe\parsing_and_loading_functions.c(290,24): warning C4244: "=": konwersja z "LONG" do "SHORT", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\PC\Desktop\VS_pseudoassembler_2\pliki źródłowe\order_functions.c(325): warning C4715: "execute_J”: niewszystkie ścieżki kodu zwracają wartość
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Pseudoassembler_interpreter.vcxproj -> C:\Users\PC\Desktop\VS_pseudoassembler_2\pliki źródłowe\Release\Pseudoassembler_interpreter.exe
